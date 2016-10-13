@@ -13829,7 +13829,7 @@ naming: grid - package width</description>
 </class>
 <class number="1" name="pwr" width="0.8128" drill="0">
 </class>
-<class number="2" name="analog" width="0.4064" drill="0">
+<class number="2" name="analog" width="0.6096" drill="0">
 </class>
 </classes>
 <parts>
