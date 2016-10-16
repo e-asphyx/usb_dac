@@ -13953,7 +13953,7 @@ naming: grid - package width</description>
 <part name="R25" library="SparkFun-Resistors" deviceset="RESISTOR" device="PTH-1/4W" value="3.3k"/>
 <part name="R24" library="SparkFun-Resistors" deviceset="RESISTOR" device="PTH-1/4W" value="1.8k"/>
 <part name="C43" library="SparkFun-Capacitors" deviceset="CAP" device="PTH" value="100pF"/>
-<part name="J3" library="SparkFun-Connectors" deviceset="AUDIO-JACK" device="2.5MM"/>
+<part name="J3" library="SparkFun-Connectors" deviceset="AUDIO-JACK" device="PTH"/>
 <part name="R28" library="SparkFun-Resistors" deviceset="RESISTOR" device="PTH-1/4W" value="3.3k"/>
 <part name="R27" library="SparkFun-Resistors" deviceset="RESISTOR" device="PTH-1/4W" value="1.8k"/>
 <part name="C46" library="SparkFun-Capacitors" deviceset="CAP" device="PTH" value="100pF"/>
